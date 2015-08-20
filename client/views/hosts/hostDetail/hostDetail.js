@@ -24,6 +24,9 @@ Template.HostDetail.events({
       // After update, go to detail view page.
       Router.go('host.detail', {_id: id});
     }
-  }
+  },
+  'click .btn.btn-danger.btn-xs' : function (e) {
+    Hosts.remove({_id: this._id});
+  },
 });
 

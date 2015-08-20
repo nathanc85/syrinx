@@ -7085,7 +7085,7 @@ var packageMetadata = {
                 },
                 "version": {
                   "type": "constant",
-                  "value": "01e8d2357f3f693fff096d18ac5b0eedd05a3403"
+                  "value": "7b213b9e834d018652fa69dba105b37b89304d16"
                 },
                 "PUBLIC_SETTINGS": {
                   "type": "undefined"
@@ -7856,11 +7856,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "aa35593fdaa11da74e62bef9712aeefe904ab25f"
+          "value": "7ae03e446bb56ddb1eee713a6b224a766b775f14"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "420726da76aaa44f858dddc720b81c6b913728a3"
+          "value": "8678221ac0baaeb8e08422a73aa316be7e9c7272"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -7874,7 +7874,6 @@ var packageMetadata = {
     }
   },
   "meteor-platform": {},
-  "twbs:bootstrap": {},
   "dburles:collection-helpers": {},
   "iron:core": {
     "Iron": {
@@ -9593,11 +9592,11 @@ var packageMetadata = {
                 },
                 "appPath": {
                   "type": "constant",
-                  "value": "/Users/cg212315/Projects/syrinx"
+                  "value": "/Users/cg202013/Sites/Meteor/syrinx"
                 },
                 "pid": {
                   "type": "constant",
-                  "value": 24562
+                  "value": 11499
                 },
                 "fout": {
                   "type": "constant",
@@ -9620,7 +9619,7 @@ var packageMetadata = {
                     },
                     "pid": {
                       "type": "constant",
-                      "value": 24562
+                      "value": 11499
                     },
                     "stdin": {
                       "type": "null",
@@ -10378,6 +10377,10 @@ var packageMetadata = {
     }
   },
   "xolvio:cucumber": {},
+  "juliancwirko:s-alert": {},
+  "juliancwirko:s-alert-slide": {},
+  "less": {},
+  "twbs:bootstrap": {},
   "session": {},
   "livedata": {
     "DDP": {
